@@ -1,0 +1,17 @@
+{
+  "name": "cdr-removeui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "remove": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "adm-zip": "^0.6.1",
+    "xmldom": "^0.6.0"
+  }
+}
